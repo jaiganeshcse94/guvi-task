@@ -41,4 +41,4 @@ setTimeout(() => {
         .catch(error => {
             console.error(error);
         });
-}, 0);
+}, 100);
